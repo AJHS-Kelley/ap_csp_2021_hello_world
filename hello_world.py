@@ -9,4 +9,6 @@
 # Inside the () on Line 9, type "Hello, world!"  Make sure to include the quotation marks.  
 
 # Run your program.  Did your string print correctly on the screen? 
-# If yes, commit and submit your code 
+# DELETE THIS LINE COMPLETELY FROM YOUR CODE.  
+# If yes, commit and submit your code as version 1.0. 
+# If no, debug and try again.  Ask for help if necessary. 
